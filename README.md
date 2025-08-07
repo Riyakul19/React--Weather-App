@@ -16,7 +16,7 @@ A responsive weather application built using **React**, **Vite**, and **Material
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/your-username/react-weather-app.git
+git clone https://github.com/Riyakul19/React--Weather-App
 cd react-weather-app
 npm install
 npm run dev
