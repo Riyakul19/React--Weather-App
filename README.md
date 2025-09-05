@@ -14,11 +14,5 @@ A responsive weather application built using **React**, **Vite**, and **Material
 - Responsive design with Material UI
 - Error handling for invalid cities
 
-##  Installation
-```bash
-git clone https://github.com/Riyakul19/React--Weather-App
-cd react-weather-app
-npm install
-npm run dev
-##Live Demo
-https://riyakul19.github.io/React--Weather-App/
+##  Live Demo https://riyakul19.github.io/React--Weather-App/
+
